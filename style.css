@@ -1,0 +1,31 @@
+cd{
+    .button {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+      }
+     
+}
+div {
+    width: 15%;
+    height: 20px;
+    background-image: url('img_flowers.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 1px solid rgb(205, 210, 211);
+  }
+img{
+    
+        
+
+        max-width: 15%;
+        height: auto;
+      
+      
+
+    }
